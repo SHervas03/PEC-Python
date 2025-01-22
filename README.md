@@ -1,0 +1,3 @@
+Este proyecto es un caso de estudio de una solución de Business Intelligence (BI) para una multinacional de telecomunicaciones. Implica diseñar la arquitectura del sistema de análisis de datos, modelar la base de datos, cargar los datos extraídos y realizar la explotación de datos para apoyar la toma de decisiones.
+
+This project is a case study of a Business Intelligence (BI) solution for a telecommunications multinational. It involves designing the data analysis system architecture, modeling the database, loading extracted data, and performing data exploitation to support decision-making.
