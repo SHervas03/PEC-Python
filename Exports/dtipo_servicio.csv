@@ -1,0 +1,5 @@
+idtipo_servicio;tipo_servicio
+1;Petici�n de serv. por el usuario
+2;Restauraci�n de servicio a usuario
+3;Evento de infraestructura
+4;Restauraci�n de infraestructura
